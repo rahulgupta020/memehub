@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memehub/static/css/main.6ccd65a8.css",
+    "main.js": "/memehub/static/js/main.79654655.js",
+    "static/js/787.001e509f.chunk.js": "/memehub/static/js/787.001e509f.chunk.js",
+    "index.html": "/memehub/index.html",
+    "main.6ccd65a8.css.map": "/memehub/static/css/main.6ccd65a8.css.map",
+    "main.79654655.js.map": "/memehub/static/js/main.79654655.js.map",
+    "787.001e509f.chunk.js.map": "/memehub/static/js/787.001e509f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.79654655.js"
+  ]
+}
