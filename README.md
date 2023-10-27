@@ -15,3 +15,11 @@ Make a page,design it however you want, It has to have
 If you want to run this project. Simple clone it. and run Command "npm install". after it it will install node_modules folder. now can you can run this project using "npm start".
 
 screen:
+First Page:
+![image](https://github.com/rahulgupta020/memehub/assets/42673573/6b60f1a2-3cf4-4c33-81f2-515aa87d711f)
+
+Input Search:
+![image](https://github.com/rahulgupta020/memehub/assets/42673573/af31607c-e238-46de-bd97-ef411dcb1d15)
+
+Image Click Model:-
+![image](https://github.com/rahulgupta020/memehub/assets/42673573/b358d22a-f714-44e1-9e47-40e0510f7bb2)
